@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: O projektu
 ---
 
 This is a minimal [Learn-Jekyll.js](https://github.com/jan-martinek/learn-jekyll) website.
