@@ -8,18 +8,3 @@ Cílovou skupinou webu jsou všichni, kteøí mají zájem o informaèní vìdu. Studium 
 Vytvoøením webu o Susan Leigh Star bychom chtìli zvýšit její publicitu v Èeské Republice. Myslíme si, že právì vytvoøení webu o téhle osobnosti by mohlo alespoò trochu zvýšit zájem ostatních se o ní nìco dozvìdìt. Dle našeho názoru urèitì nedosáhla menších úspìchù na poli informaèní vìdy než další vìdci, ale málokdo ji zná i z toho dùvodu, že na èeském webu je o Susan Leigh Star velice málo informací. 
 
 Název webu je Susan Leigh Star. 
-
-5 webových zdrojù k tématu
-https://en.wikipedia.org/wiki/Susan_Leigh_Star
-https://www.utimes.pitt.edu/?p=11769
-https://rememberingleigh.wordpress.com/about/
-http://onlinelibrary.wiley.com/doi/10.1111/j.1467-954X.1990.tb03347.x/abstract
-https://www.cairn.info/revue-anthropologie-des-connaissances-2010-1-page-a.htm
-
-5 newebových zdrojù k tématu
-STAR, Susan Leigh. The cultures of computing. Cambridge, MA, USA: Blackwell Publisher, 1995. Sociological review monograph. ISBN 0631192824.
-LINDEN, Robin Ruth. Against sadomasochism: a radical feminist analysis. East Palo Alto, Calif.: Frog in the Well, 1982. ISBN 0-9603628-3-5.
-STAR, Susan Leigh. Ecologies of knowledge: work and politics in science and technology. Albany: State University of New York Press, c1995. ISBN 0791425665.
-GEOFFREY C. BOWKER a SUSAN LEIGH STAR. Sorting things out: classification and its consequences. Cambridge, Mass: MIT Press, 2000. ISBN 0262522950.
-BOWKER, Geoffrey C. Social science, technical systems, and cooperative work: beyond the great divide. Mahwah, N.J.: Lawrence Erlbaum Associates, 1997. ISBN 0805824030.
-
