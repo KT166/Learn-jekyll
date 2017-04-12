@@ -9,7 +9,7 @@ Cílovou skupinou webu jsou všichni, kteří mají zájem o informační vědu.
 ## Cíl webu
 Vytvořením webu o Susan Leigh Star bychom chtěli zvýšit její publicitu v České Republice. Myslíme si, že právě vytvoření webu o téhle osobnosti by mohlo alespoň trochu zvýšit zájem ostatních se o ní něco dozvědět. Dle našeho názoru určitě nedosáhla menších úspěchů na poli informační vědy než další vědci, ale málokdo ji zná i z toho důvodu, že na českém webu je o Susan Leigh Star velice málo informací. 
 
-Název webu je Susan Leigh Star. 
+Název webu je *Susan Leigh Star*. 
 
 ## 5 webových zdrojů k tématu
 https://en.wikipedia.org/wiki/Susan_Leigh_Star
