@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ## Pro koho je web určený
+=======
+﻿## Pro koho je web určený
+>>>>>>> origin/master
 Cílovou skupinou webu jsou všichni, kteří mají zájem o informační vědu. Studium informace v současné společnosti, informační architektur a dalších podobných věcí souvisejících s informacemi. Protože právě toto pole bylo specializací Susan Leigh Star, o které právě tento web je. 
 
 ## Cíl webu
@@ -7,11 +11,19 @@ Vytvořením webu o Susan Leigh Star bychom chtěli zvýšit její publicitu v �
 **Název webu** je *Susan Leigh Star*. 
 
 ## 5 webových zdrojů k tématu
+<<<<<<< HEAD
 - https://en.wikipedia.org/wiki/Susan_Leigh_Star
 - https://www.utimes.pitt.edu/?p=11769
 - https://rememberingleigh.wordpress.com/about/
 - http://onlinelibrary.wiley.com/doi/10.1111/j.1467-954X.1990.tb03347.x/abstract
 - https://www.cairn.info/revue-anthropologie-des-connaissances-2010-1-page-a.htm
+=======
+https://en.wikipedia.org/wiki/Susan_Leigh_Star
+https://www.utimes.pitt.edu/?p=11769
+https://rememberingleigh.wordpress.com/about/
+http://onlinelibrary.wiley.com/doi/10.1111/j.1467-954X.1990.tb03347.x/abstract
+https://www.cairn.info/revue-anthropologie-des-connaissances-2010-1-page-a.htm
+>>>>>>> origin/master
 
 ## 5 newebových zdrojů k tématu
 STAR, Susan Leigh. The cultures of computing. Cambridge, MA, USA: Blackwell Publisher, 1995. Sociological review monograph. ISBN 0631192824.
@@ -31,8 +43,13 @@ BOWKER, Geoffrey C. Social science, technical systems, and cooperative work: bey
 
 ## Naše vizuální inspirace pro budoucí vzhled webu je ve webech uvedených níže
 
+<<<<<<< HEAD
 -- http://www.salomonssonagency.se/anders-de-la-motte
 -- https://www.doller.cz/kontakty/
+=======
+http://www.salomonssonagency.se/anders-de-la-motte
+https://www.doller.cz/kontakty/
+>>>>>>> origin/master
 http://www.csszengarden.com/
 
 
