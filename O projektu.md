@@ -1,9 +1,4 @@
-﻿---
-layout: page
-title: O projektu
----
-
-## Pro koho je web určený
+﻿## Pro koho je web určený
 Cílovou skupinou webu jsou všichni, kteří mají zájem o informační vědu. Studium informace v současné společnosti, informační architektur a dalších podobných věcí souvisejících s informacemi. Protože právě toto pole bylo specializací Susan Leigh Star, o které právě tento web je. 
 
 ## Cíl webu
