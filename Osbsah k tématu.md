@@ -1,0 +1,11 @@
+osbsah k tématu
+- život
+- vzdělání
+- rodina
+- zaměstnání
+- dílo
+- obrázky
+- ocenění
+- zajímavosti
+- další osobnosti informační vědy
+- zdroje
